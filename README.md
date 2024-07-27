@@ -39,3 +39,4 @@ Comporte-se como um escritor de artigos tech back-end e escreva o Artigo atenden
 - Faça um call to action para as minhas redes sociais
 - Coloque 3 hashtags que façam sentido
 
+Acesse o Artigo completo em: https://web.dio.me/articles/back-end-developer-conhecendo-o-poo?back=%2Farticles&open-modal=true&page=1&order=oldest
